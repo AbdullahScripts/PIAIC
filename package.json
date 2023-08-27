@@ -1,12 +1,12 @@
 {
   "name": "piaic",
   "version": "1.0.0",
-  "description": "Web 3 and metaverse",
+  "description": "ghq",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Abdullah",
+  "license": "ISC",
+  "keywords": []
 }
